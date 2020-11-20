@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdapterDemo</string>
+    <string-array name="names">
+        <item>Petya</item>
+    </string-array>
+    <string-array name="lastnames">
+        <item>Petrov</item>
+    </string-array>
+</resources>
